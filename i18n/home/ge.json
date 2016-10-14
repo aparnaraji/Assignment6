@@ -1,0 +1,14 @@
+{
+ "heading": "Meine ToDo-Anwendung",
+ "lang": "Sprache ",
+ "english": "Englisch",
+ "spanish": "Spanisch",
+ "add": "Hinzufügen",
+ "taskid": "Aufgabe Id",
+ "taskname": "Aufgabenn Name",
+ "completed": "Fertiggestellt",
+ "removetask": "Entfernen Aufgabe",
+ "remove": "Entfernen ",
+ "add_content":"Inhalt hinzufügen",
+ "cancel":"Stornieren"
+}

@@ -1,0 +1,14 @@
+{
+ "heading": "My ToDo Application",
+ "english": "English",
+ "german": "German",
+ "add": "Add",
+ "taskid": "Task Id",
+ "taskname": "Task Name",
+ "completed": "Mark Completed",
+ "removetask": "Remove Task",
+ "remove": "Remove",
+ "add_content":"Add_content",
+ "cancel":"Cancel",
+ "lang": "Language",
+}
